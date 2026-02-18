@@ -16,3 +16,6 @@ variable "username" {
 variable "password" {
     default = "Jashwanth_12"
 }
+variable "my_ip" {
+  
+}
